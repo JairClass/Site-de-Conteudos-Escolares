@@ -46,7 +46,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  
--   Fontes:  **[Sans-Serif](https://fonts.googleapis.com/css2?family=sans-serif:wght@300;400;500;600;700;800;900&display=swap')**
+-   Fontes:  **[Open Sans](https://fonts.googleapis.com/css2?family=OpenSans:wght@300;400;500;600;700;800;900&display=swap)**
+-   Servidor:  **[Xampp](https://www.apachefriends.org/pt_br/download.html)**
 
 
 ---
