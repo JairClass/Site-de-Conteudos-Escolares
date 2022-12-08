@@ -44,6 +44,7 @@ img{
 
 .logo-cabecalho{
 	float: left;
+	font-weight: bold;
 }
 
 .logo-cabecalho a{
